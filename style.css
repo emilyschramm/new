@@ -5,8 +5,8 @@ img {
     border: 2px solid #000000
 }
 
-background {
-   color: pink;
+body {
+   background-color: pink;
 }
 
 p {
@@ -15,5 +15,5 @@ p {
 }
 
 #banner {
-  font size:50px;
+  font-size:50px;
 }
