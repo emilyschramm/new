@@ -1,5 +1,19 @@
 img {
   width:200px;
-  height: 200px;
+  height:200px;
+  padding:2px
+    border: 2px solid #000000
+}
 
+background {
+   color: pink;
+}
+
+p {
+  color: purple
+    text color: white;
+}
+
+#banner {
+  font size:50px;
 }
